@@ -18,4 +18,8 @@ https://electronicsforu.com/electronics-projects/gps-geolocation-using-esp8266-p
 
 https://electronicsforu.com/electronics-projects/mobile-phone-detector-using-lm358
 
+https://electronicsforu.com/electronics-projects/assemble-3d-printer
 
+https://electronicsforu.com/electronics-projects/hardware-diy/ethernet-interface-for-automation-system/2
+
+https://electronicsforu.com/electronics-projects/mobile-sniffer-2
